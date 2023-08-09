@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bussinessapp/static/css/main.f9dcffaf.css",
+    "main.js": "/bussinessapp/static/js/main.6d7ffda0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/bussinessapp/static/js/787.1ed0c42c.chunk.js",
+    "static/media/img2.png": "/bussinessapp/static/media/img2.3a6b9048806bd55621f6.png",
+    "static/media/frontEnd.png": "/bussinessapp/static/media/frontEnd.00aeeab3cd2ef8d4d557.png",
+    "static/media/JavaPro.png": "/bussinessapp/static/media/JavaPro.6a71cce9bfc3a6111923.png",
+    "static/media/graphicDesign.png": "/bussinessapp/static/media/graphicDesign.50d4b4916f3117a131f6.png",
+    "static/media/digitalMarketing.png": "/bussinessapp/static/media/digitalMarketing.be3b455199580fdcaf74.png",
+    "static/media/img3.png": "/bussinessapp/static/media/img3.a348e26289dd6d4a01bc.png",
+    "index.html": "/bussinessapp/index.html",
+    "main.f9dcffaf.css.map": "/bussinessapp/static/css/main.f9dcffaf.css.map",
+    "main.6d7ffda0.js.map": "/bussinessapp/static/js/main.6d7ffda0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/bussinessapp/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9dcffaf.css",
+    "static/js/main.6d7ffda0.js"
+  ]
+}
